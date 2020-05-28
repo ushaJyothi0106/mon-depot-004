@@ -1,0 +1,9 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+monenv
+db.sqlite3
+.DS_Store
+pavage/programmes_calcul/imago_A2_it8.txt
+pavage/programmes_calcul/imago_A3_it7.txt
