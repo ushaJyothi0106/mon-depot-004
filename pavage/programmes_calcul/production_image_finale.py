@@ -1,9 +1,6 @@
 import pickle
 import numpy as np
-import matplotlib.image as mpimg
-import matplotlib.pyplot as plt
 from PIL import Image
-from numpy import asarray
 from monsite.settings import *
 #format=1001#format de test
 format=1001
