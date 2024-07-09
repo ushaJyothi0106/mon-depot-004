@@ -1,7 +1,10 @@
-gomock==1.4.4
-mock==1.4.4
-zerolog==1.29.0
-errgroup==1.3.0
-websocket==1.5.0
-pgx==5.0.10
-goqu==10.15.0
+rails==7.0.4
+sinatra==3.0.4
+nokogiri==1.14.2
+devise==4.9.2
+puma==6.0.1
+sidekiq==7.0.7
+faker==3.2.1
+httparty==0.20.0
+cancancan==3.5.2
+rspec==3.12.0
